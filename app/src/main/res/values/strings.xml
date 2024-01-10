@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Swipe Android Assignment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="searchbar_hint_text">Search for the products</string>
+    <string name="purchase_text">Purchase</string>
+    <string name="product_type_text">Product Type : Product</string>
+    <string name="tax_text">Tax : 18.0%</string>
+    <string name="price_text">Price : 1694.91 Rs</string>
+    <string name="product_name_text">Product Name: Test App</string>
+
+
+    <string name="price_label">Price: %s</string>
+    <string name="product_name_label">Product Name: %s</string>
+    <string name="product_type_label">Product Type: %s</string>
+    <string name="tax_label">Tax: %s</string>
+    <string name="add_the_product_to_the_inventory">Add the product to the inventory</string>
+    <string name="add_product">Add Product</string>
+    <string name="tax_rate">Tax Rate (%)</string>
+    <string name="selling_price">Selling Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="sample_message">Sample Message</string>
+    <string name="okay">Okay</string>
+    <string name="upload_status">Upload Status</string>
+    <string name="internet_connected">Internet Connected</string>
+
+</resources>
